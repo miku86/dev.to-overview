@@ -5,8 +5,8 @@ A simple utility to see your dev.to numbers of views and reactions: total, mean 
 Example:
 
 ```
-Views { sum: 187908, mean: 1372, median: 181 }
-Reactions { sum: 3969, mean: 29, median: 23 }
+Views { total: 187908, mean: 1372, median: 181 }
+Reactions { total: 3969, mean: 29, median: 23 }
 ```
 
 ## Requirements
