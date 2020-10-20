@@ -1,0 +1,16 @@
+{
+  "name": "devto-overview",
+  "version": "1.0.0",
+  "description": "a tool to fetch dev.to data",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "miku86",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "dotenv": "^8.2.0",
+    "summary": "^2.1.0"
+  }
+}
