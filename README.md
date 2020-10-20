@@ -1,6 +1,6 @@
 # Dev.to Overview
 
-A simple utility to see your numbers of views and reactions: total, mean and median.
+A simple utility to see your dev.to numbers of views and reactions: total, mean and median.
 
 Example:
 
